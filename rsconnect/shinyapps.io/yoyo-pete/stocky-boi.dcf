@@ -1,0 +1,13 @@
+name: stocky-boi
+title:
+username:
+account: yoyo-pete
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2972036
+bundleId: 3717540
+url: https://yoyo-pete.shinyapps.io/stocky-boi/
+when: 1602171403.15172
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.Rold
